@@ -1,3 +1,3 @@
 # StockForecaster
 
-Uses simple linear regression with multiple variables to predict Alphabet Inc's stock.
+Uses linear regression with several relevant variables to build and train a model with years worth of data and predict Alphabet Inc's stock. 
